@@ -4,7 +4,6 @@
   <meta charset="utf-8" >
   <title>Thank you for your order</title>
 <link rel="stylesheet" href="bistro.css">
-  </style>
 </head>
 
 <body>
