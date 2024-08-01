@@ -1,0 +1,30 @@
+    body{
+    background-color: #000;
+    margin: 10%;
+	list-style-position: inside; 
+	color: #fff;
+    }
+p  {
+	text-align: center;
+	padding: 5px;
+}
+   h1 {
+    text-align:center;
+  font-family: "Anton SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 50px;
+    text-transform: uppercase;
+   }
+   h2 {
+    font-size: 1.5em;
+   }
+img {align-content: center;}
+   div img{
+    border: 3px solid #fff;
+    border-radius: 20px;
+    padding: 7px;
+   }
+   div img:hover {
+    box-shadow: 0 0 2px 1px rgba(255, 255, 255, 1);
+   }
