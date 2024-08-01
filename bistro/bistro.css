@@ -17,52 +17,13 @@ h2 {
       font-size: 1.3em; 
     }
 
-footer {
-  border-top: 1px solid #57b1dc;
-  text-align: center;
-  padding-top: 1em;
-}
-
-footer img {
-  width: 40px;
-  height: 40px;
-  margin-left: .5em;
-  margin-right: .5em;
-}
-
-img {
-      width: 125px;
-      height: 50px;
-    }
-.lato-regular {
-  font-family: "Lato", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.gupter-medium {
-  font-family: "Gupter", serif;
-  font-weight: 500;
-  font-style: normal;
-}
 a:hover {
   color: #57b1dc;
 }
 a {
   font-size:larger;
 }
-div.container {
-  text-align: center;
-}
-ul.myUL {
-  display: inline-block;
-  text-align: left;
-}
 li {
   display: inline-block;
   margin-right: 30px;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
